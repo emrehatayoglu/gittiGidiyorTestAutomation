@@ -1,0 +1,1380 @@
+2021-03-01 11:58:51 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 11:58:56 INFO  BasePage:52 - Verilen5 saniye süre beklendi.
+2021-03-01 11:58:56 INFO  BasePage:63 - Sayfa basligi alindi.
+2021-03-01 12:01:30 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 12:01:35 INFO  BasePage:52 - Verilen5 saniye süre beklendi.
+2021-03-01 12:01:35 INFO  BasePage:64 - Sayfa basligi alindi.
+2021-03-01 12:13:30 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 12:13:35 INFO  BasePage:52 - Verilen5 saniye süre beklendi.
+2021-03-01 12:13:35 INFO  BasePage:64 - Sayfa basligi alindi.
+2021-03-01 12:13:35 INFO  BasePage:64 - Sayfa basligi alindi.
+2021-03-01 12:13:35 INFO  BasePage:25 - By.xpath: //div[@class='gekhq4-3 icMLoL']li elemente tiklandi.
+2021-03-01 12:13:40 INFO  BasePage:52 - Verilen5 saniye süre beklendi.
+2021-03-01 12:13:40 INFO  BasePage:25 - By.xpath: //div[@title='Giriş Yap']li elemente tiklandi.
+2021-03-01 12:13:45 INFO  BasePage:52 - Verilen5 saniye süre beklendi.
+2021-03-01 12:14:33 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 12:14:38 INFO  BasePage:52 - Verilen5 saniye süre beklendi.
+2021-03-01 12:14:38 INFO  BasePage:64 - Sayfa basligi alindi.
+2021-03-01 12:14:38 INFO  BasePage:64 - Sayfa basligi alindi.
+2021-03-01 12:14:39 INFO  BasePage:25 - By.xpath: //div[@class='gekhq4-3 icMLoL']li elemente tiklandi.
+2021-03-01 12:14:44 INFO  BasePage:52 - Verilen5 saniye süre beklendi.
+2021-03-01 12:14:44 INFO  BasePage:25 - By.xpath: //div[@title='Giriş Yap']li elemente tiklandi.
+2021-03-01 12:14:59 INFO  BasePage:52 - Verilen15 saniye süre beklendi.
+2021-03-01 12:24:10 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 12:24:15 INFO  BasePage:52 - Verilen5 saniye süre beklendi.
+2021-03-01 12:24:15 INFO  BasePage:64 - Sayfa basligi alindi.
+2021-03-01 12:24:15 INFO  BasePage:64 - Sayfa basligi alindi.
+2021-03-01 12:24:15 INFO  BasePage:25 - By.xpath: //div[@class='gekhq4-3 icMLoL']li elemente tiklandi.
+2021-03-01 12:24:20 INFO  BasePage:52 - Verilen5 saniye süre beklendi.
+2021-03-01 12:37:15 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 12:37:20 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 12:37:20 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 12:37:20 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 12:37:25 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 12:39:33 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 12:39:38 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 12:39:38 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 12:39:38 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 12:39:38 INFO  BasePage:75 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 12:39:43 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 12:42:47 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 12:42:52 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 12:42:52 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 12:42:52 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 12:42:52 INFO  BasePage:75 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 12:42:57 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 12:43:41 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 12:43:46 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 12:43:46 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 12:43:46 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 12:43:46 INFO  BasePage:75 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 12:43:51 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 13:09:31 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 13:09:36 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 13:09:36 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 13:09:36 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 13:09:36 INFO  BasePage:75 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 13:09:41 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 13:09:41 INFO  BasePage:41 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 13:09:43 INFO  BasePage:26 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 13:31:56 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 13:32:01 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 13:32:01 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 13:32:01 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 13:32:01 INFO  BasePage:75 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 13:32:06 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 13:32:06 INFO  BasePage:41 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 13:32:09 INFO  BasePage:26 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 13:36:28 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 13:36:33 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 13:36:33 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 13:36:33 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 13:36:33 INFO  BasePage:75 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 13:36:38 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 13:36:38 INFO  BasePage:41 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 13:36:41 INFO  BasePage:26 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 13:40:13 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 13:40:18 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 13:40:18 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 13:40:18 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 13:40:18 INFO  BasePage:75 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 13:40:23 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 13:40:23 INFO  BasePage:41 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 13:40:26 INFO  BasePage:26 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 13:47:19 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 13:47:24 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 13:47:24 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 13:47:24 INFO  BasePage:65 - Sayfa basligi alindi.
+2021-03-01 13:47:24 INFO  BasePage:75 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 13:47:29 INFO  BasePage:53 - Verilen5 saniye süre beklendi.
+2021-03-01 13:47:29 INFO  BasePage:41 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 13:47:34 INFO  BasePage:26 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 13:53:14 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 13:53:19 INFO  BasePage:54 - Verilen5 saniye süre beklendi.
+2021-03-01 13:53:19 INFO  BasePage:66 - Sayfa basligi alindi.
+2021-03-01 13:53:19 INFO  BasePage:66 - Sayfa basligi alindi.
+2021-03-01 13:53:19 INFO  BasePage:76 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 13:53:24 INFO  BasePage:54 - Verilen5 saniye süre beklendi.
+2021-03-01 13:53:24 INFO  BasePage:42 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 13:53:28 INFO  BasePage:27 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 13:53:57 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 13:54:02 INFO  BasePage:54 - Verilen5 saniye süre beklendi.
+2021-03-01 13:54:02 INFO  BasePage:66 - Sayfa basligi alindi.
+2021-03-01 13:54:02 INFO  BasePage:66 - Sayfa basligi alindi.
+2021-03-01 13:54:02 INFO  BasePage:76 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 13:54:07 INFO  BasePage:54 - Verilen5 saniye süre beklendi.
+2021-03-01 13:54:07 INFO  BasePage:42 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 13:54:10 INFO  BasePage:27 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 13:54:15 INFO  BasePage:54 - Verilen5 saniye süre beklendi.
+2021-03-01 13:58:04 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 13:58:09 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 13:58:09 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 13:58:09 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 13:58:09 INFO  BasePage:78 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 13:58:14 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 13:58:14 INFO  BasePage:44 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 13:58:17 INFO  BasePage:29 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 13:59:28 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 13:59:33 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 13:59:34 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 13:59:34 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 13:59:34 INFO  BasePage:78 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 13:59:39 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 13:59:39 INFO  BasePage:44 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 13:59:41 INFO  BasePage:29 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 14:00:21 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 14:00:26 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:00:26 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 14:00:26 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 14:00:26 INFO  BasePage:78 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 14:00:31 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:00:31 INFO  BasePage:44 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 14:00:34 INFO  BasePage:29 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 14:00:39 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:03:02 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 14:03:07 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:03:07 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 14:03:07 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 14:03:07 INFO  BasePage:78 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 14:03:12 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:03:12 INFO  BasePage:44 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 14:03:15 INFO  BasePage:29 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 14:03:20 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:06:09 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 14:06:14 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:06:14 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 14:06:14 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 14:06:14 INFO  BasePage:78 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 14:06:19 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:06:19 INFO  BasePage:44 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 14:06:21 INFO  BasePage:29 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 14:06:26 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:24:30 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 14:24:35 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:24:35 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 14:24:35 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 14:24:35 INFO  BasePage:78 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 14:24:40 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:24:41 INFO  BasePage:44 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 14:24:43 INFO  BasePage:29 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 14:24:48 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:24:51 INFO  BasePage:29 - By.linkText: 2li elemente tiklandi.
+2021-03-01 14:24:56 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:36:34 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 14:36:39 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:36:39 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 14:36:39 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 14:36:39 INFO  BasePage:78 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 14:36:44 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:36:44 INFO  BasePage:44 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 14:36:48 INFO  BasePage:29 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 14:36:53 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:36:56 INFO  BasePage:29 - By.linkText: 2li elemente tiklandi.
+2021-03-01 14:37:01 INFO  BasePage:56 - Verilen5 saniye süre beklendi.
+2021-03-01 14:37:01 INFO  BasePage:68 - Sayfa basligi alindi.
+2021-03-01 14:51:56 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 14:52:01 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:52:01 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 14:52:01 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 14:52:01 INFO  BasePage:80 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 14:52:06 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:52:06 INFO  BasePage:46 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 14:52:09 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 14:52:14 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:52:17 INFO  BasePage:31 - By.linkText: 2li elemente tiklandi.
+2021-03-01 14:52:22 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:52:22 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 14:55:23 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 14:55:28 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:55:28 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 14:55:28 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 14:55:28 INFO  BasePage:80 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 14:55:33 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:55:33 INFO  BasePage:46 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 14:55:35 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 14:55:40 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:55:43 INFO  BasePage:31 - By.linkText: 2li elemente tiklandi.
+2021-03-01 14:55:48 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:55:48 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 14:56:34 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 14:56:39 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:56:39 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 14:56:39 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 14:56:39 INFO  BasePage:80 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 14:56:44 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:56:44 INFO  BasePage:46 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 14:56:47 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 14:56:52 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:56:55 INFO  BasePage:31 - By.linkText: 2li elemente tiklandi.
+2021-03-01 14:57:00 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 14:57:00 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 14:57:07 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 15:02:44 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 15:02:49 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 15:02:49 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 15:02:49 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 15:02:49 INFO  BasePage:80 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 15:02:54 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 15:04:34 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 15:04:39 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 15:04:39 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 15:04:39 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 15:05:56 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 15:06:01 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 15:06:01 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 15:06:01 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 15:06:01 INFO  BasePage:31 - By.xpath: //div[@class='gekhq4-3 icMLoL']li elemente tiklandi.
+2021-03-01 15:06:06 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 15:06:08 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/spanli elemente tiklandi.
+2021-03-01 15:14:41 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 15:14:46 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 15:14:46 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 15:14:46 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 15:14:47 INFO  BasePage:81 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 15:14:52 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 15:14:53 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/spanli elemente tiklandi.
+2021-03-01 15:33:53 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 15:33:58 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 15:33:58 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 15:33:58 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 15:33:59 INFO  BasePage:81 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 15:34:04 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 15:34:06 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/spanli elemente tiklandi.
+2021-03-01 15:34:06 INFO  BasePage:46 - By.id: L-UserNameFieldli elementeemrehatayoglu97@gmail.comdegeri yazildi.
+2021-03-01 15:34:06 INFO  BasePage:46 - By.id: L-PasswordFieldli elementeEmreHatayoglu97degeri yazildi.
+2021-03-01 15:34:08 INFO  BasePage:31 - By.id: gg-login-enterli elemente tiklandi.
+2021-03-01 15:34:13 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:05:19 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 16:05:24 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:05:24 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 16:05:24 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 16:05:25 INFO  BasePage:81 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 16:05:30 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:05:32 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/spanli elemente tiklandi.
+2021-03-01 16:05:32 INFO  BasePage:46 - By.id: L-UserNameFieldli elementeemrehatayoglu97@gmail.comdegeri yazildi.
+2021-03-01 16:05:32 INFO  BasePage:46 - By.id: L-PasswordFieldli elementeEmreHatayoglu97degeri yazildi.
+2021-03-01 16:05:34 INFO  BasePage:31 - By.id: gg-login-enterli elemente tiklandi.
+2021-03-01 16:05:39 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:15:18 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 16:15:23 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:15:23 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 16:15:23 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 16:15:23 INFO  BasePage:81 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 16:15:28 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:15:30 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/spanli elemente tiklandi.
+2021-03-01 16:15:30 INFO  BasePage:46 - By.id: L-UserNameFieldli elementeemrehatayoglu97@gmail.comdegeri yazildi.
+2021-03-01 16:15:30 INFO  BasePage:46 - By.id: L-PasswordFieldli elementeEmreHatayoglu97degeri yazildi.
+2021-03-01 16:15:33 INFO  BasePage:31 - By.id: gg-login-enterli elemente tiklandi.
+2021-03-01 16:15:38 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:26:21 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 16:26:26 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:29:46 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 16:29:51 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:30:10 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 16:30:15 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:30:15 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 16:30:15 INFO  BasePage:81 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 16:30:20 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:30:22 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/spanli elemente tiklandi.
+2021-03-01 16:30:22 INFO  BasePage:46 - By.id: L-UserNameFieldli elementeemrehatayoglu97@gmail.comdegeri yazildi.
+2021-03-01 16:30:22 INFO  BasePage:46 - By.id: L-PasswordFieldli elementeEmreHatayoglu97degeri yazildi.
+2021-03-01 16:30:25 INFO  BasePage:31 - By.id: gg-login-enterli elemente tiklandi.
+2021-03-01 16:30:30 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:30:30 INFO  BasePage:46 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 16:30:33 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 16:30:38 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:30:40 INFO  BasePage:31 - By.linkText: 2li elemente tiklandi.
+2021-03-01 16:30:45 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:30:45 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 16:30:52 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:35:31 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 16:35:36 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:35:36 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 16:35:36 INFO  BasePage:81 - MouseBy.xpath: //div[@class='gekhq4-3 icMLoL']li elementin üstüne getirildi.
+2021-03-01 16:35:41 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:35:44 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/spanli elemente tiklandi.
+2021-03-01 16:35:44 INFO  BasePage:46 - By.id: L-UserNameFieldli elementeemrehatayoglu97@gmail.comdegeri yazildi.
+2021-03-01 16:35:44 INFO  BasePage:46 - By.id: L-PasswordFieldli elementeEmreHatayoglu97degeri yazildi.
+2021-03-01 16:35:45 INFO  BasePage:31 - By.id: gg-login-enterli elemente tiklandi.
+2021-03-01 16:35:50 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:35:51 INFO  BasePage:46 - By.name: kli elementebilgisayardegeri yazildi.
+2021-03-01 16:35:53 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 16:35:58 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:36:01 INFO  BasePage:31 - By.linkText: 2li elemente tiklandi.
+2021-03-01 16:36:06 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 16:36:13 INFO  BasePage:58 - Verilen5 saniye süre beklendi.
+2021-03-01 17:11:37 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 17:11:42 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:11:42 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 17:11:42 INFO  BasePage:81 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 17:11:47 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:11:49 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/spanli elemente tiklandi.
+2021-03-01 17:11:49 INFO  BasePage:46 - By.id: L-UserNameFieldli elementeemrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 17:11:49 INFO  BasePage:46 - By.id: L-PasswordFieldli elementeEmreHatayoglu97 degeri yazildi.
+2021-03-01 17:11:51 INFO  BasePage:31 - By.id: gg-login-enterli elemente tiklandi.
+2021-03-01 17:11:56 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:11:56 INFO  BasePage:46 - By.name: kli elementebilgisayar degeri yazildi.
+2021-03-01 17:11:59 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 17:12:04 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:12:08 INFO  BasePage:31 - By.linkText: 2li elemente tiklandi.
+2021-03-01 17:12:13 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:12:19 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:15:53 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 17:15:58 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:15:58 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 17:15:58 INFO  BasePage:81 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 17:16:03 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:16:05 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/spanli elemente tiklandi.
+2021-03-01 17:16:05 INFO  BasePage:46 - By.id: L-UserNameFieldli elementeemrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 17:16:06 INFO  BasePage:46 - By.id: L-PasswordFieldli elementeEmreHatayoglu97 degeri yazildi.
+2021-03-01 17:16:07 INFO  BasePage:31 - By.id: gg-login-enterli elemente tiklandi.
+2021-03-01 17:16:12 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:16:13 INFO  BasePage:46 - By.name: kli elementebilgisayar degeri yazildi.
+2021-03-01 17:16:15 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 17:16:20 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:16:23 INFO  BasePage:31 - By.linkText: 2li elemente tiklandi.
+2021-03-01 17:16:28 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:16:34 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:20:51 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 17:20:56 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:20:56 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 17:20:57 INFO  BasePage:81 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 17:21:02 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:21:07 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/spanli elemente tiklandi.
+2021-03-01 17:21:07 INFO  BasePage:46 - By.id: L-UserNameFieldli elementeemrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 17:21:07 INFO  BasePage:46 - By.id: L-PasswordFieldli elementeEmreHatayoglu97 degeri yazildi.
+2021-03-01 17:21:09 INFO  BasePage:31 - By.id: gg-login-enterli elemente tiklandi.
+2021-03-01 17:21:14 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:21:14 INFO  BasePage:46 - By.name: kli elementebilgisayar degeri yazildi.
+2021-03-01 17:21:17 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 17:21:22 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:21:26 INFO  BasePage:31 - By.linkText: 2li elemente tiklandi.
+2021-03-01 17:21:31 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:21:38 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:21:38 INFO  BasePage:31 - By.id: add-to-basketli elemente tiklandi.
+2021-03-01 17:21:55 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 17:22:00 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:22:00 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 17:22:00 INFO  BasePage:81 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 17:22:05 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:22:07 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/spanli elemente tiklandi.
+2021-03-01 17:22:07 INFO  BasePage:46 - By.id: L-UserNameFieldli elementeemrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 17:22:08 INFO  BasePage:46 - By.id: L-PasswordFieldli elementeEmreHatayoglu97 degeri yazildi.
+2021-03-01 17:22:10 INFO  BasePage:31 - By.id: gg-login-enterli elemente tiklandi.
+2021-03-01 17:22:15 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:22:15 INFO  BasePage:46 - By.name: kli elementebilgisayar degeri yazildi.
+2021-03-01 17:22:17 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF']li elemente tiklandi.
+2021-03-01 17:22:22 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:22:25 INFO  BasePage:31 - By.linkText: 2li elemente tiklandi.
+2021-03-01 17:22:30 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:22:37 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:22:40 INFO  BasePage:58 - Verilen 3 saniye süre beklendi.
+2021-03-01 17:22:40 INFO  BasePage:31 - By.id: add-to-basketli elemente tiklandi.
+2021-03-01 17:25:16 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 17:25:21 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:25:21 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 17:25:21 INFO  BasePage:81 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 17:25:26 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:25:28 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 17:25:28 INFO  BasePage:46 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 17:25:28 INFO  BasePage:46 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 17:25:30 INFO  BasePage:31 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 17:25:35 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:25:36 INFO  BasePage:46 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 17:25:38 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 17:25:43 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:25:46 INFO  BasePage:31 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 17:25:51 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:25:58 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:30:20 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 17:30:25 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:30:25 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 17:30:25 INFO  BasePage:81 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 17:30:30 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:30:32 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 17:30:32 INFO  BasePage:46 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 17:30:33 INFO  BasePage:46 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 17:30:34 INFO  BasePage:31 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 17:30:39 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:30:40 INFO  BasePage:46 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 17:30:42 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 17:30:47 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:30:50 INFO  BasePage:31 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 17:30:55 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:31:02 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:31:03 INFO  BasePage:58 - Verilen 1 saniye süre beklendi.
+2021-03-01 17:31:03 INFO  BasePage:31 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 17:31:05 INFO  BasePage:58 - Verilen 2 saniye süre beklendi.
+2021-03-01 17:31:06 INFO  BasePage:31 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 17:41:53 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 17:41:58 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:41:58 INFO  BasePage:70 - Sayfa basligi alindi.
+2021-03-01 17:41:58 INFO  BasePage:81 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 17:42:03 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:42:05 INFO  BasePage:31 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 17:42:05 INFO  BasePage:46 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 17:42:05 INFO  BasePage:46 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 17:42:08 INFO  BasePage:31 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 17:42:13 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:42:13 INFO  BasePage:46 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 17:42:15 INFO  BasePage:31 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 17:42:20 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:42:23 INFO  BasePage:31 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 17:42:28 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:42:35 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 17:42:36 INFO  BasePage:58 - Verilen 1 saniye süre beklendi.
+2021-03-01 17:42:36 INFO  BasePage:31 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 17:42:38 INFO  BasePage:58 - Verilen 2 saniye süre beklendi.
+2021-03-01 17:42:39 INFO  BasePage:31 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 17:42:44 INFO  BasePage:58 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:07:37 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 18:07:42 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:07:42 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 18:07:42 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 18:07:47 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:07:49 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 18:07:49 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 18:07:49 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 18:07:51 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 18:07:56 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:07:56 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 18:07:58 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 18:08:03 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:08:06 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 18:08:11 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:08:18 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:08:19 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 18:08:19 INFO  BasePage:32 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 18:08:21 INFO  BasePage:59 - Verilen 2 saniye süre beklendi.
+2021-03-01 18:08:22 INFO  BasePage:32 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 18:08:27 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:08:27 INFO  BasePage:32 - By.xpath: //div[@class='gg-input gg-input-select '] li elemente tiklandi.
+2021-03-01 18:08:28 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 18:14:23 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 18:14:28 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:14:28 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 18:14:29 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 18:14:34 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:14:36 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 18:14:36 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 18:14:36 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 18:14:38 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 18:14:43 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:14:43 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 18:14:46 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 18:14:51 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:14:53 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 18:14:58 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:15:06 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:15:07 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 18:15:07 INFO  BasePage:32 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 18:15:09 INFO  BasePage:59 - Verilen 2 saniye süre beklendi.
+2021-03-01 18:15:10 INFO  BasePage:32 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 18:15:15 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:15:15 INFO  BasePage:32 - By.xpath: //div[@class='gg-input gg-input-select '] li elemente tiklandi.
+2021-03-01 18:15:16 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 18:21:15 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 18:21:20 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:21:20 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 18:21:20 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 18:21:25 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:21:27 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 18:21:27 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 18:21:27 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 18:21:30 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 18:21:35 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:21:35 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 18:21:37 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 18:21:42 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:21:45 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 18:21:50 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:21:57 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:21:58 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 18:21:58 INFO  BasePage:32 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 18:22:00 INFO  BasePage:59 - Verilen 2 saniye süre beklendi.
+2021-03-01 18:22:01 INFO  BasePage:32 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 18:22:06 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:29:38 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 18:29:43 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:29:43 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 18:29:43 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 18:29:48 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:29:51 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 18:29:51 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 18:29:52 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 18:29:54 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 18:29:59 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:29:59 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 18:30:02 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 18:30:07 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:30:10 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 18:30:15 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:30:23 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:30:24 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 18:30:24 INFO  BasePage:32 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 18:30:26 INFO  BasePage:59 - Verilen 2 saniye süre beklendi.
+2021-03-01 18:30:27 INFO  BasePage:32 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 18:30:32 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:30:32 INFO  BasePage:115 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 18:30:35 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-01 18:44:10 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 18:44:15 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:44:15 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 18:44:16 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 18:44:21 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:44:23 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 18:44:23 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 18:44:23 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 18:44:25 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 18:44:30 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:44:30 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 18:44:33 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 18:44:38 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:44:41 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 18:44:46 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:44:54 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:44:55 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 18:44:56 INFO  BasePage:32 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 18:44:58 INFO  BasePage:59 - Verilen 2 saniye süre beklendi.
+2021-03-01 18:44:58 INFO  BasePage:32 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 18:45:03 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 18:45:04 INFO  BasePage:115 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 18:45:07 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-01 19:07:13 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:07:18 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:07:18 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 19:07:19 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:07:24 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:07:26 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 19:07:26 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:07:26 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:07:28 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 19:07:33 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:07:33 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 19:07:36 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 19:07:41 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:07:44 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 19:07:49 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:07:57 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:07:58 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 19:07:58 INFO  BasePage:32 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 19:08:00 INFO  BasePage:59 - Verilen 2 saniye süre beklendi.
+2021-03-01 19:08:00 INFO  BasePage:32 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 19:08:05 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:08:06 INFO  BasePage:115 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 19:08:09 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-01 19:08:09 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] li elemente tiklandi.
+2021-03-01 19:10:21 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:10:26 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:10:26 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 19:10:26 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:10:31 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:10:33 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 19:10:33 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:10:33 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:10:36 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 19:10:41 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:10:41 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 19:10:44 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 19:10:49 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:10:52 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 19:10:57 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:11:04 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:11:05 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 19:11:06 INFO  BasePage:32 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 19:11:08 INFO  BasePage:59 - Verilen 2 saniye süre beklendi.
+2021-03-01 19:11:09 INFO  BasePage:32 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 19:11:14 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:12:03 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:12:08 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:12:08 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 19:12:08 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:12:13 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:12:15 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 19:12:15 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:12:15 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:12:17 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 19:12:22 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:13:04 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:13:09 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:13:09 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 19:13:09 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:13:14 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:13:16 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 19:13:16 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:13:16 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:13:18 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 19:13:23 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:13:23 INFO  BasePage:47 - By.name: kli elemente çiçek degeri yazildi.
+2021-03-01 19:13:26 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 19:13:31 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:13:33 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 19:13:38 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:13:45 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:13:46 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 19:13:46 INFO  BasePage:32 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 19:13:48 INFO  BasePage:59 - Verilen 2 saniye süre beklendi.
+2021-03-01 19:13:49 INFO  BasePage:32 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 19:13:54 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:13:54 INFO  BasePage:115 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 19:13:57 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-01 19:13:57 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] li elemente tiklandi.
+2021-03-01 19:17:23 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:17:28 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:17:28 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 19:17:28 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:17:33 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:17:35 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 19:17:35 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:17:35 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:17:37 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 19:17:42 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:17:42 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 19:17:45 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 19:17:50 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:17:53 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 19:17:58 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:18:06 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:18:07 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 19:18:07 INFO  BasePage:32 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 19:18:09 INFO  BasePage:59 - Verilen 2 saniye süre beklendi.
+2021-03-01 19:18:10 INFO  BasePage:32 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 19:18:15 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:18:15 INFO  BasePage:115 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 19:18:18 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-01 19:18:18 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] li elemente tiklandi.
+2021-03-01 19:19:09 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:19:14 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:19:14 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 19:19:15 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:19:20 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:19:21 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 19:19:21 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:19:21 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:19:23 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 19:19:28 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:19:29 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 19:19:31 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 19:19:36 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:19:40 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 19:19:45 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:20:52 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:20:57 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:20:57 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 19:20:57 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:21:02 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:21:05 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 19:21:05 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:21:05 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:21:07 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 19:21:12 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:21:12 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 19:21:15 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 19:21:20 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:21:23 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 19:21:28 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:21:36 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:21:37 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 19:21:37 INFO  BasePage:32 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 19:21:39 INFO  BasePage:59 - Verilen 2 saniye süre beklendi.
+2021-03-01 19:21:39 INFO  BasePage:32 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 19:21:44 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:21:44 INFO  BasePage:115 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 19:21:47 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-01 19:21:48 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] li elemente tiklandi.
+2021-03-01 19:28:05 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:28:10 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:28:10 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 19:28:10 INFO  BasePage:82 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:28:15 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:28:17 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 19:28:17 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:28:17 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:28:19 INFO  BasePage:32 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 19:28:24 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:28:25 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 19:28:27 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 19:28:32 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:28:36 INFO  BasePage:32 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 19:28:41 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:28:48 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:28:49 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 19:28:49 INFO  BasePage:32 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 19:28:51 INFO  BasePage:59 - Verilen 2 saniye süre beklendi.
+2021-03-01 19:28:52 INFO  BasePage:32 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 19:28:57 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:28:57 INFO  BasePage:115 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 19:29:00 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-01 19:29:01 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] li elemente tiklandi.
+2021-03-01 19:38:09 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:38:09 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 19:38:09 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:38:14 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:38:17 INFO  BasePage:33 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 19:38:17 INFO  BasePage:48 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:38:17 INFO  BasePage:48 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:38:20 INFO  BasePage:33 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 19:38:25 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:38:25 INFO  BasePage:48 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 19:38:28 INFO  BasePage:33 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 19:38:33 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:38:36 INFO  BasePage:33 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 19:38:41 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:44:43 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:44:43 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 19:44:43 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:44:48 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:44:50 INFO  BasePage:33 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span li elemente tiklandi.
+2021-03-01 19:44:50 INFO  BasePage:48 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:44:50 INFO  BasePage:48 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:44:52 INFO  BasePage:33 - By.id: gg-login-enter li elemente tiklandi.
+2021-03-01 19:44:57 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:44:57 INFO  BasePage:48 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 19:45:00 INFO  BasePage:33 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] li elemente tiklandi.
+2021-03-01 19:45:05 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:45:08 INFO  BasePage:33 - By.linkText: 2 li elemente tiklandi.
+2021-03-01 19:45:13 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:45:18 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:45:25 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:45:26 INFO  BasePage:60 - Verilen 1 saniye süre beklendi.
+2021-03-01 19:45:26 INFO  BasePage:33 - By.id: add-to-basket li elemente tiklandi.
+2021-03-01 19:45:28 INFO  BasePage:60 - Verilen 2 saniye süre beklendi.
+2021-03-01 19:45:29 INFO  BasePage:33 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] li elemente tiklandi.
+2021-03-01 19:45:34 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:45:34 INFO  BasePage:120 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 19:45:37 INFO  BasePage:60 - Verilen 3 saniye süre beklendi.
+2021-03-01 19:45:37 INFO  BasePage:33 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] li elemente tiklandi.
+2021-03-01 19:55:56 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:55:56 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 19:55:56 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:56:01 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:56:57 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:56:57 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 19:56:57 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:57:02 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:57:04 INFO  BasePage:33 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-01 19:57:04 INFO  BasePage:48 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:57:05 INFO  BasePage:48 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:57:07 INFO  BasePage:33 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-01 19:57:12 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:57:12 INFO  BasePage:48 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 19:57:15 INFO  BasePage:33 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-01 19:57:20 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:57:24 INFO  BasePage:33 - By.linkText: 2 by li elemente tiklandi.
+2021-03-01 19:57:29 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:57:34 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:57:41 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:57:42 INFO  BasePage:60 - Verilen 1 saniye süre beklendi.
+2021-03-01 19:57:42 INFO  BasePage:33 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-01 19:57:46 INFO  BasePage:60 - Verilen 4 saniye süre beklendi.
+2021-03-01 19:57:47 INFO  BasePage:33 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-01 19:57:52 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:57:52 INFO  BasePage:120 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 19:57:55 INFO  BasePage:60 - Verilen 3 saniye süre beklendi.
+2021-03-01 19:57:55 INFO  BasePage:33 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-01 19:58:46 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 19:58:46 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 19:58:46 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 19:58:51 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:58:53 INFO  BasePage:33 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-01 19:58:53 INFO  BasePage:48 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 19:58:53 INFO  BasePage:48 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 19:58:56 INFO  BasePage:33 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-01 19:59:01 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:59:01 INFO  BasePage:48 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 19:59:04 INFO  BasePage:33 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-01 19:59:09 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:59:12 INFO  BasePage:33 - By.linkText: 2 by li elemente tiklandi.
+2021-03-01 19:59:17 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:59:22 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:59:32 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:59:33 INFO  BasePage:60 - Verilen 1 saniye süre beklendi.
+2021-03-01 19:59:34 INFO  BasePage:33 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-01 19:59:38 INFO  BasePage:60 - Verilen 4 saniye süre beklendi.
+2021-03-01 19:59:38 INFO  BasePage:33 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-01 19:59:43 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 19:59:44 INFO  BasePage:120 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 19:59:47 INFO  BasePage:60 - Verilen 3 saniye süre beklendi.
+2021-03-01 19:59:47 INFO  BasePage:33 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-01 19:59:50 INFO  BasePage:60 - Verilen 3 saniye süre beklendi.
+2021-03-01 20:01:49 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 20:01:49 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 20:01:49 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 20:01:54 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:06:18 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 20:06:18 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 20:06:19 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 20:06:43 INFO  BasePage:33 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-01 20:06:43 INFO  BasePage:48 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 20:06:44 INFO  BasePage:48 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 20:06:51 INFO  BasePage:33 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-01 20:06:56 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:06:57 INFO  BasePage:48 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 20:07:00 INFO  BasePage:33 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-01 20:07:05 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:07:08 INFO  BasePage:33 - By.linkText: 2 by li elemente tiklandi.
+2021-03-01 20:07:13 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:07:18 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:07:25 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:07:26 INFO  BasePage:60 - Verilen 1 saniye süre beklendi.
+2021-03-01 20:07:27 INFO  BasePage:33 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-01 20:07:31 INFO  BasePage:60 - Verilen 4 saniye süre beklendi.
+2021-03-01 20:12:12 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 20:12:12 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 20:12:12 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 20:12:41 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 20:12:41 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 20:12:42 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 20:12:47 INFO  BasePage:33 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-01 20:12:47 INFO  BasePage:48 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 20:12:47 INFO  BasePage:48 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 20:12:49 INFO  BasePage:33 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-01 20:12:54 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:12:55 INFO  BasePage:48 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 20:12:57 INFO  BasePage:33 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-01 20:13:02 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:13:06 INFO  BasePage:33 - By.linkText: 2 by li elemente tiklandi.
+2021-03-01 20:13:11 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:13:16 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:13:24 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:13:25 INFO  BasePage:60 - Verilen 1 saniye süre beklendi.
+2021-03-01 20:13:25 INFO  BasePage:33 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-01 20:13:29 INFO  BasePage:60 - Verilen 4 saniye süre beklendi.
+2021-03-01 20:13:29 INFO  BasePage:84 - Mouse By.xpath: //div[@class='basket-icon-title hidden-m hidden-t'] li elementin üstüne getirildi.
+2021-03-01 20:16:50 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 20:16:50 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 20:16:50 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 20:16:55 INFO  BasePage:33 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-01 20:16:56 INFO  BasePage:48 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 20:16:56 INFO  BasePage:48 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 20:16:59 INFO  BasePage:33 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-01 20:17:04 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:17:05 INFO  BasePage:48 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 20:17:07 INFO  BasePage:33 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-01 20:17:12 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:17:16 INFO  BasePage:33 - By.linkText: 2 by li elemente tiklandi.
+2021-03-01 20:17:21 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:17:26 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:17:33 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:17:34 INFO  BasePage:60 - Verilen 1 saniye süre beklendi.
+2021-03-01 20:17:35 INFO  BasePage:33 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-01 20:17:39 INFO  BasePage:60 - Verilen 4 saniye süre beklendi.
+2021-03-01 20:17:39 INFO  BasePage:84 - Mouse By.xpath: //div[@class='basket-icon-title hidden-m hidden-t'] li elementin üstüne getirildi.
+2021-03-01 20:17:39 INFO  BasePage:33 - By.xpath: //a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-01 20:17:44 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:17:45 INFO  BasePage:120 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 20:17:48 INFO  BasePage:60 - Verilen 3 saniye süre beklendi.
+2021-03-01 20:17:48 INFO  BasePage:33 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-01 20:17:51 INFO  BasePage:60 - Verilen 3 saniye süre beklendi.
+2021-03-01 20:19:09 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 20:19:09 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 20:19:10 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 20:19:15 INFO  BasePage:33 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-01 20:19:15 INFO  BasePage:48 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 20:19:15 INFO  BasePage:48 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 20:19:17 INFO  BasePage:33 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-01 20:19:22 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:19:23 INFO  BasePage:48 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 20:19:26 INFO  BasePage:33 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-01 20:19:29 INFO  BasePage:33 - By.linkText: 2 by li elemente tiklandi.
+2021-03-01 20:19:34 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:19:41 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:19:42 INFO  BasePage:60 - Verilen 1 saniye süre beklendi.
+2021-03-01 20:19:42 INFO  BasePage:33 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-01 20:19:46 INFO  BasePage:60 - Verilen 4 saniye süre beklendi.
+2021-03-01 20:19:47 INFO  BasePage:84 - Mouse By.xpath: //div[@class='basket-icon-title hidden-m hidden-t'] li elementin üstüne getirildi.
+2021-03-01 20:25:20 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 20:25:20 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 20:25:20 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 20:25:26 INFO  BasePage:33 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-01 20:25:26 INFO  BasePage:48 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 20:25:26 INFO  BasePage:48 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 20:25:28 INFO  BasePage:33 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-01 20:25:33 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:25:33 INFO  BasePage:48 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 20:25:36 INFO  BasePage:33 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-01 20:25:40 INFO  BasePage:33 - By.linkText: 2 by li elemente tiklandi.
+2021-03-01 20:25:45 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:25:52 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:25:53 INFO  BasePage:60 - Verilen 1 saniye süre beklendi.
+2021-03-01 20:25:53 INFO  BasePage:33 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-01 20:25:57 INFO  BasePage:60 - Verilen 4 saniye süre beklendi.
+2021-03-01 20:25:58 INFO  BasePage:84 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-01 20:25:59 INFO  BasePage:33 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-01 20:26:04 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:26:04 INFO  BasePage:120 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 20:26:07 INFO  BasePage:60 - Verilen 3 saniye süre beklendi.
+2021-03-01 20:26:07 INFO  BasePage:33 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-01 20:26:10 INFO  BasePage:60 - Verilen 3 saniye süre beklendi.
+2021-03-01 20:27:05 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 20:27:05 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 20:27:06 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 20:27:33 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 20:27:33 INFO  BasePage:72 - Sayfa basligi alindi.
+2021-03-01 20:27:33 INFO  BasePage:84 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 20:27:39 INFO  BasePage:33 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-01 20:27:39 INFO  BasePage:48 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 20:27:39 INFO  BasePage:48 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 20:27:41 INFO  BasePage:33 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-01 20:27:46 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:27:46 INFO  BasePage:48 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 20:27:49 INFO  BasePage:33 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-01 20:27:52 INFO  BasePage:33 - By.linkText: 2 by li elemente tiklandi.
+2021-03-01 20:27:57 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:28:04 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:28:05 INFO  BasePage:60 - Verilen 1 saniye süre beklendi.
+2021-03-01 20:28:06 INFO  BasePage:33 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-01 20:28:10 INFO  BasePage:60 - Verilen 4 saniye süre beklendi.
+2021-03-01 20:28:10 INFO  BasePage:84 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-01 20:28:10 INFO  BasePage:33 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-01 20:28:15 INFO  BasePage:60 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:28:16 INFO  BasePage:120 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 20:28:19 INFO  BasePage:60 - Verilen 3 saniye süre beklendi.
+2021-03-01 20:28:19 INFO  BasePage:33 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-01 20:28:22 INFO  BasePage:60 - Verilen 3 saniye süre beklendi.
+2021-03-01 20:41:15 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 20:41:15 INFO  HomePage:24 - Anasayfaya basariyla girildi.
+2021-03-01 20:41:15 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 20:41:15 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 20:41:20 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-01 20:41:20 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 20:41:20 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 20:41:23 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-01 20:41:23 INFO  HomePage:52 - Basariyla giris yapildi.
+2021-03-01 20:41:23 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 20:41:26 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-01 20:41:29 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-01 20:41:34 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:41:34 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-01 20:41:41 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:41:42 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 20:41:42 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-01 20:41:46 INFO  BasePage:59 - Verilen 4 saniye süre beklendi.
+2021-03-01 20:41:47 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-01 20:41:47 ERROR BasePage:35 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklanamadi.
+2021-03-01 20:41:52 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:41:52 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-01 20:42:29 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-01 20:42:29 INFO  HomePage:24 - Anasayfaya basariyla girildi.
+2021-03-01 20:42:29 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-01 20:42:29 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-01 20:42:35 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-01 20:42:35 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-01 20:42:35 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-01 20:42:37 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-01 20:42:37 INFO  HomePage:52 - Basariyla giris yapildi.
+2021-03-01 20:42:37 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-01 20:42:40 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-01 20:42:44 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-01 20:42:49 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:42:49 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-01 20:42:56 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:42:57 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-01 20:42:57 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-01 20:43:01 INFO  BasePage:59 - Verilen 4 saniye süre beklendi.
+2021-03-01 20:43:01 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-01 20:43:02 INFO  BasePage:32 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-01 20:43:07 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-01 20:43:07 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-01 20:43:07 INFO  BasePage:119 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-01 20:43:10 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-01 20:43:10 INFO  BasketPage:45 - Sepette 2 adet urun var.
+2021-03-01 20:43:10 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-01 20:43:13 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-01 20:43:13 ERROR BasketPage:70 - Sepetiniz bosaltilamadi.
+2021-03-02 11:02:41 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 11:02:41 INFO  HomePage:24 - Anasayfaya basariyla girildi.
+2021-03-02 11:02:41 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 11:02:41 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 11:02:46 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 11:03:38 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 11:03:38 INFO  HomePage:24 - Anasayfaya basariyla girildi.
+2021-03-02 11:03:38 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 11:03:39 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 11:04:24 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 11:04:24 INFO  HomePage:24 - Anasayfaya basariyla girildi.
+2021-03-02 11:04:24 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 11:04:24 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 11:04:26 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 11:04:26 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 11:04:26 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 11:04:33 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 11:04:33 INFO  HomePage:52 - Basariyla giris yapildi.
+2021-03-02 11:04:33 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 11:04:35 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-02 11:04:38 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-02 11:04:43 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:04:43 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-02 11:04:50 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:04:51 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-02 11:04:51 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-02 11:04:54 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:04:54 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-02 11:04:57 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:04:58 INFO  BasePage:32 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-02 11:05:03 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:05:03 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-02 11:05:03 INFO  BasePage:119 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-02 11:05:06 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:05:06 INFO  BasketPage:45 - Sepette 2 adet urun var.
+2021-03-02 11:05:06 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-02 11:05:09 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:05:09 INFO  BasketPage:66 - Sepetiniz bosaltildi.
+2021-03-02 11:19:41 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 11:19:41 INFO  HomePage:25 - Anasayfaya basariyla girildi.
+2021-03-02 11:19:41 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 11:19:41 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 11:19:47 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 11:19:47 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 11:19:47 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 11:19:50 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 11:19:50 INFO  HomePage:53 - Basariyla giris yapildi.
+2021-03-02 11:19:50 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 11:19:53 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-02 11:19:56 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-02 11:20:01 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:20:01 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-02 11:20:09 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:20:10 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-02 11:20:10 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-02 11:20:13 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:20:13 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-02 11:20:16 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:20:17 INFO  BasePage:32 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-02 11:20:22 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:20:22 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-02 11:20:22 INFO  BasePage:119 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-02 11:20:25 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:20:25 INFO  BasketPage:45 - Sepette 2 adet urun var.
+2021-03-02 11:20:25 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-02 11:20:28 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:20:28 INFO  BasketPage:66 - Sepetiniz bosaltildi.
+2021-03-02 11:27:35 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 11:27:35 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 11:27:35 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 11:27:35 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 11:27:37 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 11:27:37 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 11:27:37 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 11:27:41 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 11:28:17 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 11:28:17 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 11:28:17 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 11:28:18 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 11:28:23 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 11:28:23 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 11:28:23 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 11:28:26 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 11:28:26 INFO  HomePage:51 - Basariyla giris yapildi.
+2021-03-02 11:28:26 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 11:28:29 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-02 11:28:33 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-02 11:28:38 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:28:38 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-02 11:28:46 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:28:47 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-02 11:28:47 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-02 11:28:50 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:28:50 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-02 11:28:53 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:28:54 INFO  BasePage:32 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-02 11:28:59 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:28:59 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-02 11:28:59 INFO  BasePage:119 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-02 11:29:02 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:29:02 INFO  BasketPage:45 - Sepette 2 adet urun var.
+2021-03-02 11:29:02 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-02 11:29:05 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:29:05 INFO  BasketPage:66 - Sepetiniz bosaltildi.
+2021-03-02 11:43:33 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 11:43:33 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 11:43:33 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 11:43:33 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 11:43:35 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 11:43:35 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 11:43:36 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 11:43:40 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 11:44:24 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 11:44:24 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 11:44:24 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 11:44:24 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 11:44:26 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 11:44:26 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 11:44:26 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 11:44:32 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 11:44:32 INFO  HomePage:51 - Basariyla giris yapildi.
+2021-03-02 11:44:32 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 11:44:36 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-02 11:44:39 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-02 11:44:44 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:44:44 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-02 11:44:51 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:44:52 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-02 11:44:52 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-02 11:44:55 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:44:55 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-02 11:44:58 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:44:59 INFO  BasePage:32 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-02 11:45:04 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 11:45:04 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-02 11:45:04 INFO  BasePage:119 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-02 11:45:07 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:45:07 INFO  BasketPage:45 - Sepette 2 adet urun var.
+2021-03-02 11:45:07 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-02 11:45:10 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 11:45:10 INFO  BasketPage:66 - Sepetiniz bosaltildi.
+2021-03-02 12:10:44 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 12:10:44 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 12:10:44 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 12:10:44 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 12:10:47 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 12:10:47 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 12:10:47 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 12:10:49 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 12:10:49 INFO  HomePage:51 - Basariyla giris yapildi.
+2021-03-02 12:10:49 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 12:10:52 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-02 12:10:55 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-02 12:11:00 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 12:11:00 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-02 12:30:10 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 12:30:10 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 12:30:10 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 12:30:10 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 12:30:15 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 12:30:16 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 12:30:16 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 12:30:18 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 12:30:18 INFO  HomePage:51 - Basariyla giris yapildi.
+2021-03-02 12:30:18 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 12:30:21 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-02 12:30:24 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-02 12:30:29 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 12:30:29 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-02 12:30:35 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 12:30:36 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-02 12:30:37 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-02 12:30:40 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 12:30:40 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-02 12:30:43 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 12:30:43 INFO  BasePage:32 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-02 12:30:48 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 12:30:48 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-02 12:30:48 INFO  BasePage:119 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-02 12:30:51 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 12:30:51 INFO  BasketPage:45 - Sepette 2 adet urun var.
+2021-03-02 12:30:51 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-02 12:30:54 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 12:30:55 INFO  BasketPage:66 - Sepetiniz bosaltildi.
+2021-03-02 13:08:09 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 13:08:09 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 13:08:09 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 13:08:09 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 13:08:11 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 13:08:11 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 13:08:12 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 13:08:15 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 13:08:15 INFO  HomePage:51 - Basariyla giris yapildi.
+2021-03-02 13:08:15 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 13:08:18 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-02 13:08:22 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-02 13:08:27 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:08:27 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-02 13:08:34 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:08:35 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-02 13:08:35 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-02 13:08:38 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:08:38 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-02 13:08:41 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:08:42 INFO  BasePage:32 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-02 13:08:47 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:08:47 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-02 13:08:48 INFO  BasePage:119 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-02 13:08:51 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:08:51 INFO  BasketPage:45 - Sepette 2 adet urun var.
+2021-03-02 13:08:51 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-02 13:08:54 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:08:54 INFO  BasketPage:66 - Sepetiniz bosaltildi.
+2021-03-02 13:32:28 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 13:32:28 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 13:32:28 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 13:32:28 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 13:32:34 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 13:32:34 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 13:32:34 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 13:32:36 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 13:32:36 INFO  HomePage:51 - Basariyla giris yapildi.
+2021-03-02 13:32:37 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 13:32:40 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-02 13:32:42 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-02 13:32:47 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:32:47 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-02 13:32:54 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:32:55 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-02 13:32:56 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-02 13:32:59 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:32:59 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-02 13:33:02 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:33:02 INFO  BasePage:32 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-02 13:33:07 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:33:07 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-02 13:33:07 INFO  BasePage:119 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-02 13:33:10 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:33:10 INFO  BasketPage:45 - Sepette 2 adet urun var.
+2021-03-02 13:33:11 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-02 13:33:14 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:33:14 INFO  BasketPage:66 - Sepetiniz bosaltildi.
+2021-03-02 13:36:31 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 13:36:31 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 13:36:31 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 13:36:31 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 13:36:33 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 13:36:33 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 13:36:33 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 13:36:37 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 13:37:17 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 13:37:17 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 13:37:17 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 13:37:17 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 13:37:19 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 13:37:19 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 13:37:20 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 13:37:24 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 13:37:24 INFO  HomePage:51 - Basariyla giris yapildi.
+2021-03-02 13:37:24 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 13:37:27 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-02 13:37:30 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-02 13:37:35 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:37:35 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-02 13:37:41 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:37:43 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-02 13:37:43 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-02 13:37:46 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:37:46 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-02 13:37:49 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:37:49 INFO  BasePage:32 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-02 13:37:54 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:37:54 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-02 13:37:55 INFO  BasePage:119 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-02 13:37:58 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:37:58 INFO  BasketPage:45 - Sepette 2 adet urun var.
+2021-03-02 13:37:58 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-02 13:38:01 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:38:01 INFO  BasketPage:66 - Sepetiniz bosaltildi.
+2021-03-02 13:54:18 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 13:54:18 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 13:54:18 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 13:54:18 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 13:54:20 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 13:54:20 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 13:54:20 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 13:54:24 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 13:54:36 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 13:54:36 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 13:54:36 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 13:54:36 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 13:54:38 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 13:54:38 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 13:54:38 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 13:54:45 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 13:55:01 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 13:55:01 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 13:55:01 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 13:55:01 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 13:55:03 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 13:55:03 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 13:55:03 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 13:55:07 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 13:55:32 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 13:55:32 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 13:55:32 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 13:55:32 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 13:55:37 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 13:55:37 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 13:55:37 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 13:55:39 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 13:55:39 INFO  HomePage:51 - Basariyla giris yapildi.
+2021-03-02 13:55:39 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 13:55:42 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-02 13:55:45 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-02 13:55:50 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:55:50 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-02 13:55:56 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:55:58 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-02 13:55:58 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-02 13:56:01 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:56:01 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-02 13:56:04 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:56:04 INFO  BasePage:32 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-02 13:56:09 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 13:56:09 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-02 13:56:10 INFO  BasePage:119 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-02 13:56:13 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:56:13 INFO  BasketPage:45 - Sepette 2 adet urun var.
+2021-03-02 13:56:13 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-02 13:56:16 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 13:56:16 INFO  BasketPage:66 - Sepetiniz bosaltildi.
+2021-03-02 13:56:26 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 13:56:26 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 13:56:26 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 13:56:26 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 13:56:28 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 13:56:29 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 13:56:29 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 13:56:33 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 13:56:43 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 13:56:43 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 13:56:43 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 13:56:43 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 13:56:45 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 13:56:45 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 13:56:46 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 13:56:50 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 13:57:03 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 13:57:03 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 13:57:03 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 13:57:03 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 13:57:05 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 13:57:05 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 13:57:06 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 13:57:06 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 14:50:26 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 14:50:26 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 14:50:26 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 14:50:26 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 14:50:31 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 14:50:31 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 14:50:31 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 14:50:33 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 14:50:33 INFO  HomePage:51 - Basariyla giris yapildi.
+2021-03-02 14:50:33 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 14:50:35 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
+2021-03-02 14:50:38 INFO  BasePage:32 - By.linkText: 2 by li elemente tiklandi.
+2021-03-02 14:50:43 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 14:50:43 INFO  ProductListPage:45 - Sayfa 2'ye basariyla girildi.
+2021-03-02 14:50:50 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 14:50:51 INFO  BasePage:59 - Verilen 1 saniye süre beklendi.
+2021-03-02 14:50:51 INFO  BasePage:32 - By.id: add-to-basket by li elemente tiklandi.
+2021-03-02 14:50:54 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 14:50:54 INFO  BasePage:83 - Mouse By.xpath: //a[@class='dIB'] li elementin üstüne getirildi.
+2021-03-02 14:50:57 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 14:50:58 INFO  BasePage:32 - By.xpath: //div[@class='gg-d-12 pl0']//a[@class='gg-ui-btn-default padding-none'] by li elemente tiklandi.
+2021-03-02 14:51:03 INFO  BasePage:59 - Verilen 5 saniye süre beklendi.
+2021-03-02 14:51:03 ERROR BasketPage:29 - Fiyatlar esit degil.
+2021-03-02 14:51:03 INFO  BasePage:119 - Seçilen By.xpath: //div[@class='gg-input gg-input-select ']//select li elemente tiklandi.
+2021-03-02 14:51:06 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 14:51:06 INFO  BasketPage:45 - Sepette 2 adet urun var.
+2021-03-02 14:51:06 INFO  BasePage:32 - By.xpath: (//i[@class='gg-icon gg-icon-bin-medium'])[1] by li elemente tiklandi.
+2021-03-02 14:51:09 INFO  BasePage:59 - Verilen 3 saniye süre beklendi.
+2021-03-02 14:51:09 INFO  BasketPage:66 - Sepetiniz bosaltildi.
+2021-03-02 15:06:44 INFO  BaseTest:26 - -----Test Basladi-----
+2021-03-02 15:06:44 INFO  HomePage:23 - Anasayfaya basariyla girildi.
+2021-03-02 15:06:44 INFO  BasePage:71 - Sayfa basligi alindi.
+2021-03-02 15:06:44 INFO  BasePage:83 - Mouse By.xpath: //div[@class='gekhq4-3 icMLoL'] li elementin üstüne getirildi.
+2021-03-02 15:06:49 INFO  BasePage:32 - By.xpath: //header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a/span by li elemente tiklandi.
+2021-03-02 15:06:49 INFO  BasePage:47 - By.id: L-UserNameFieldli elemente emrehatayoglu97@gmail.com degeri yazildi.
+2021-03-02 15:06:49 INFO  BasePage:47 - By.id: L-PasswordFieldli elemente EmreHatayoglu97 degeri yazildi.
+2021-03-02 15:06:51 INFO  BasePage:32 - By.id: gg-login-enter by li elemente tiklandi.
+2021-03-02 15:06:52 INFO  HomePage:51 - Basariyla giris yapildi.
+2021-03-02 15:06:52 INFO  BasePage:47 - By.name: kli elemente bilgisayar degeri yazildi.
+2021-03-02 15:06:52 INFO  BasePage:32 - By.xpath: //button[@class='qjixn8-0 sc-1bydi5r-0 hKfdXF'] by li elemente tiklandi.
